@@ -1,0 +1,7 @@
+git pull remotelink
+
+git pull --verbose remotelink
+
+git pull --no-commit remotelink
+
+git pull --rebase remotelink
